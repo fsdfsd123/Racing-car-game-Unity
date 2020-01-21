@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2ba92e765d264413390f16bccbaf62b8
+  - enabled: 1
+    path: Assets/Race_Track_Construction_Kit/Race_Track_Construction_Kit.unity
+    guid: bf90094c50cf5bb488aa8c8049ddf652
+  - enabled: 1
+    path: Assets/Car01/Scene/FastCarScene.unity
+    guid: 768b2b55775ee304c892c6ec6e335499
+  - enabled: 0
+    path: Assets/SampleScenes/Scenes/Car.unity
+    guid: 41b8fdb98491fab48a0cd641d4c0e3b1
+  - enabled: 1
+    path: Assets/CarStart.unity
+    guid: 985c5b8065776aa48a4cf1b629450472
+  - enabled: 1
+    path: Assets/CarGame.unity
+    guid: 3bc4a643283c6a44293aa68cda3bbfee
+  m_configObjects: {}

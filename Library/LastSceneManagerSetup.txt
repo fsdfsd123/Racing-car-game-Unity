@@ -1,0 +1,10 @@
+sceneSetups:
+- path: Assets/CarGame.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/Race_Track_Construction_Kit/Race_Track_Construction_Kit.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Car01/Scene/FastCarScene.unity
+  isLoaded: 1
+  isActive: 0
